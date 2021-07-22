@@ -1,3 +1,3 @@
 <?php
-include_once("spellcheck.html");
+include_once("index.html");
 ?>
